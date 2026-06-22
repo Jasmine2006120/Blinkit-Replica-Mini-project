@@ -17,6 +17,7 @@ User-friendly design with smooth visual experience
 HTML5
 CSS3
 📂 Project Structure
+
 Blinkit-Clone/
 │
 ├── index.html
@@ -29,6 +30,7 @@ Blinkit-Clone/
 │   ├── Ketchup.jpg
 │  
 └── README.md
+
 🎯 Learning Objectives
 
 Through this project, I learned:
@@ -39,13 +41,11 @@ Working with Flexbox and Grid layouts
 Designing navigation sidebars
 Building product cards and display sections
 Improving UI/UX design skills
+
 📸 Screenshots
+<img width="1917" height="917" alt="image" src="https://github.com/user-attachments/assets/873db310-5629-4673-9950-5f515ac74fed" />
 
-Add screenshots of your project here.
-
-Homepage
-
-
+<img width="1877" height="932" alt="image" src="https://github.com/user-attachments/assets/f3e1cd61-5a3c-47e7-aa43-59be0fb8f8c0" />
 
 
 🔮 Future Improvements
